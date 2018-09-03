@@ -2,7 +2,7 @@
 A garage management system built in C# as part of a home exercise.
 The system uses complex and different data structures, using interface and inheritance.
 
-## Vehicles that can be inserted into the system:
+## Vehicles
 
 >**Motorcycle**
 
